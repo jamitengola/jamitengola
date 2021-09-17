@@ -24,15 +24,7 @@
  <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- <h1> 3 World places to visit this new year</h1>
-<div class="wrapper">
-
-	<div class="container" id="c0">
-		<div class="image" id="i0">
+ <div class="image" id="i0">
 			
 			<div class="city">
 			<?xml version="1.0" encoding="utf-8"?>
@@ -171,25 +163,10 @@
 			</svg>
 
 			</div>
-		</div>
-		<div class="story" id="s2">
-			<div class="info">
-			<h3>Tower of Pisa</h3>
-			<p> The Leaning Tower of Pisa or simply the Tower of Pisa is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its unintended tilt</p>
 
-			</div>
-		</div>
-	</div>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
 
-	<div class="page">
-	<h4>Hover the card</h4>
-	<ul><li> <<< </li>
-
-	<li> >>> </li>
-	</ul>
-	</div>
-
-</div>
 	
 	
 	<style>

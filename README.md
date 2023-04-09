@@ -1,4 +1,4 @@
-##Jamite Ngola 
+## Jamite Ngola 
  <div>
   <a href="https://github.com/jamitengola">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamitengola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

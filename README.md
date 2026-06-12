@@ -1,30 +1,90 @@
-## Jamite Ngola 
- <div>
+# Olá, eu sou Jamite Ngola 👋
+
+Sou **Desenvolvedor Full-stack em Angola**, focado em sistemas públicos, plataformas web, APIs, integrações, dashboards e soluções com Inteligência Artificial.
+
+Trabalho sobretudo com **.NET, React/Next.js, TypeScript, SQL Server, PostgreSQL, Docker, Power BI e ferramentas de IA**. Gosto de transformar problemas institucionais e de negócio em produtos digitais úteis, escaláveis e bem documentados.
+
+---
+
+## 🚀 O que eu construo
+
+- Plataformas web para serviços públicos e privados
+- APIs e backends com Clean Architecture
+- Dashboards e sistemas de apoio à decisão
+- Integrações entre sistemas, bases de dados e serviços externos
+- Ferramentas com IA para produtividade, automação e análise
+- Aplicações com foco em Angola, governo digital e empregabilidade
+
+---
+
+## 🧰 Stack principal
+
+**Backend**  
+.NET / ASP.NET Core / Entity Framework Core / REST APIs / SignalR
+
+**Frontend**  
+React / Next.js / TypeScript / Tailwind CSS / Flutter
+
+**Dados e BI**  
+SQL Server / PostgreSQL / MySQL / Prisma / Power BI / Metabase
+
+**DevOps e Infraestrutura**  
+Docker / Linux / GitHub Actions / Vercel / IIS / Nginx
+
+**IA e Automação**  
+OpenAI-compatible APIs / Ollama / Prompt Engineering / AI productivity tools
+
+---
+
+## ⭐ Projetos em destaque
+
+### [ALDA — AI Meeting Coach](https://github.com/jamitengola/alda)
+Assistente de reuniões com IA para preparação, coaching em tempo real, transcrição, resumos e follow-up automático.  
+**Stack:** Next.js, React, TypeScript, Electron, SQLite, Ollama e OpenAI-compatible providers.
+
+### SIAC Agendamento
+Plataforma moderna de agendamento com frontend web, backend, base de dados e infraestrutura containerizada.  
+**Stack:** Next.js, Prisma, PostgreSQL, Redis e Docker.
+
+### Carteira Profissional
+Solução digital para emissão, consulta e validação de carteira profissional.
+
+### ONE Project
+Ferramentas digitais e dashboards para apoio ao Observatório Nacional do Emprego.
+
+### Clean Architecture / .NET APIs
+Projetos e templates para construção de APIs profissionais com separação de camadas, boas práticas e escalabilidade.
+
+---
+
+## 📌 Áreas de interesse
+
+- Governo digital
+- Observatórios de emprego e dados laborais
+- IA aplicada à produtividade
+- Sistemas distribuídos e integrações
+- Plataformas SaaS e produtos web
+- Dashboards, indicadores e tomada de decisão
+
+---
+
+## 📊 GitHub Stats
+
+<div>
   <a href="https://github.com/jamitengola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamitengola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamitengola&layout=compact&langs_count=7&theme=tokyonight"/>
-	  
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jamitengola&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamitengola&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="JM-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="JM-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="JM-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="JM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="JM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JM-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JM-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="JM" src="https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCJs358zd10LgqMZGBI3SSSQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jaime_magico" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  <a href = "mailto:jamitengola@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jamite-ngola-468992108/?originalSubdomain=ao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- 
+---
 
-	
+## 🤝 Vamos conectar
+
+<a href="mailto:jamitengola@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jamite-ngola-468992108/?originalSubdomain=ao"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/jamitengola"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+---
+
+> Construindo tecnologia útil para resolver problemas reais em Angola e além.
